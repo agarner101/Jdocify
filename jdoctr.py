@@ -1,5 +1,5 @@
 
-# Jdocify.py
+# Jdoctr.py
 # Simple utility to format JSON for use in a javadoc.
 #
 # Example:
